@@ -1,4 +1,4 @@
-Profiling and Analysis Framework
+# **Profiling and Analysis Framework**
 # Overview
 This repository contains the profiling, data collection, and analysis framework developed for my BSc thesis:
 
