@@ -8,7 +8,6 @@ It supports system-level evaluation of performance, scalability, and energy effi
 
 ## Features
 - Python-based analysis and plotting
-- Raw and processed experiment datasets
 
 ## Repository Structure
 - /analysis_scripts/ # Contains analysis scripts for each experiment, producing plots. Also contains script to analyse the results of eBPF scripts.
